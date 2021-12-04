@@ -10,9 +10,11 @@ public class Maxoftwo
         int i = input.nextInt();
         int j = input.nextInt();;
         
-        if(i> j)
+        if(i> j){
             System.out.println(i+" is greater than "+j);
-        else
+        }
+        else{
             System.out.println(j+" is greater than "+i);
+        }
     }
 }
