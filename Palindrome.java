@@ -1,5 +1,7 @@
-import java.awt.*;
+import java.util.*;
 import java.util.Scanner;
+
+
 
 public class Palindrome{  
  public static void main(String args[]){  
