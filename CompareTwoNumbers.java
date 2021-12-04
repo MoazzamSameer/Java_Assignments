@@ -6,7 +6,7 @@ public class CompareTwoNumbers {
  
  public static void main(String[] args) {
  
- //declare two numbers to compare
+ 
  int num1 = 324;
  int num2 = 234;
  
