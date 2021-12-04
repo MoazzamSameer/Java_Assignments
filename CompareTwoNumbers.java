@@ -1,3 +1,7 @@
+import java.util.*;
+import java.util.Scanner;
+
+
 public class CompareTwoNumbers {
  
  public static void main(String[] args) {
