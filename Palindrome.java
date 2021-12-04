@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 
 public class Palindrome{  
+ 
  public static void main(String args[]){  
   int r,sum=0,temp;    
   int n=454;
