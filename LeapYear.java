@@ -1,5 +1,6 @@
+import java.util.*;
 import java.util.Scanner;
-import java.awt.*;
+
 
 public class LeapYear {
 
