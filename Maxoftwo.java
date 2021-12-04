@@ -6,8 +6,10 @@ public class Maxoftwo
 {
     public static void main(String args[])
     {
-        int i = Integer.parseInt(args[0]);
-        int j = Integer.parseInt(args[1]);
+        Scanner input = new Scanner(System.in);
+        int i = input.nextInt();
+        int j = input.nextInt();;
+        
         if(i> j)
             System.out.println(i+" is greater than "+j);
         else
