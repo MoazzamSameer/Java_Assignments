@@ -1,5 +1,7 @@
+import java.util.*;
 import java.util.Scanner;
-impert java.awt.*;
+
+
 
 public class Fibonacci{  
 public static void main(String args[])  
