@@ -20,13 +20,10 @@ public class LeapYear {
         else
           leap = false;
       }
-      
-     
       else
         leap = true;
     }
-    
-    else
+      else
       leap = false;
 
     if (leap)
